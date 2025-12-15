@@ -1,6 +1,6 @@
 {
   "S58131": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Steffen Meier, Teckstraße 24, 87719 Mindelheim, Deutschland",
     "receiver": "Andreas Baucke, Am Dausendbusch 28, 42285 Wuppertal, Deutschland",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "10.12.2025",
-    "deliveryDate": "16.12.2025",
+    "deliveryDate": "17.12.2025",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Hanauer Landstraße 314",
+      "postal_code": "60314",
+      "city": "Frankfurt am Main",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
