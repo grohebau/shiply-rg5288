@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "10.12.2025",
-    "deliveryDate": "17.12.2025",
+    "deliveryDate": "18-19.12.2025, 15:30 Uhr",
     "pickup": {
-      "street": "Hanauer Landstraße 314",
-      "postal_code": "60314",
-      "city": "Frankfurt am Main",
+      "street": "Clevischer Ring 96",
+      "postal_code": "51063",
+      "city": "Köln",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
